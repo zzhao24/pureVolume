@@ -1,3 +1,2 @@
 # pureVolume
-coder Jiaming Qu
 
