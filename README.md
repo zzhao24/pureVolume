@@ -17,4 +17,3 @@ Here is the origin website purevolume.com
  
 License
 PM©Zhiqing zhao
-Here me Prabhjot and Runmin tried to design the web as simple as possible and user friendly so visitor will not find difficulty in using it.We did some searchs and takes inspiration from some sites to make it attractive.
