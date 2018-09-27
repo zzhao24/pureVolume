@@ -14,4 +14,3 @@ Here is the origin website purevolume.com
 License
 PM©Zhiqing zhao# pureVolume
 
->>>>>>> master
